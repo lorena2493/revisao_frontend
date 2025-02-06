@@ -82,4 +82,13 @@ header a:hover{
     height: 40vh;
     width: 31.5vw;
     background-color: darkcyan;
+    color: white;
+    text-align: center;
+}
+
+.image-card{
+    max-width: 25%;
+    height: 25%;
+    border-radius: 5px;
+    margin-bottom: 5px;
 }
